@@ -1,0 +1,46 @@
+Project Overview
+This project is a simple console-based attendance tracking system developed using Python.
+It allows the user to record whether each student is present or absent and generates an attendance summary including totals and percentage.
+
+Features
+Record attendance for multiple students
+Mark students as Present or Absent
+Store data using dictionary
+Calculate total present and absent
+Compute attendance percentage
+Display attendance summary
+
+Problem Statement
+To design and implement an attendance tracking system that allows the user to mark students as present or absent and display a summary including total present, total absent, and attendance percentage.
+
+Objective
+To track student attendance using Python
+To use loops and conditional statements
+To apply dictionary data structure
+To calculate attendance percentage
+To understand basic logic building
+
+Tools Used
+Python 3
+VS Code / IDLE
+
+Description
+This project simulates a simple attendance tracking system.
+The user inputs the number of students and records attendance as Present or Absent for each student.
+The data is stored using a dictionary, and the system calculates totals and percentage based on the input.
+
+Algorithm
+Start the program
+Read number of students
+Create an empty dictionary for attendance
+Loop through each student
+Read attendance input (P/A)
+If input is P → mark Present
+Else → mark Absent
+Count total Present and Absent
+Calculate attendance percentage
+Display summary
+Stop the program
+
+Conclusion
+This project demonstrates how Python can be used to build a simple attendance tracking system using loops, conditional statements, and dictionary data structures to manage and process student data efficiently.
